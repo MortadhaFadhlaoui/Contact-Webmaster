@@ -1,7 +1,7 @@
 # Welcome
 
 This template is intended as a project starter for testing:
-- [] your motivation for joining an awesome startup :)
+- [ ] your motivation for joining an awesome startup :)
 - [] your competence (either you master react and sails) or your ability to learn new technologies (or you don't)
 - [] your code quality
 - [] your sense of UX/UI
