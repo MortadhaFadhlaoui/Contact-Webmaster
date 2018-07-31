@@ -18,7 +18,7 @@ You are welcome to do whatever you want to achieve a beautiful and efficient res
 You can also comment your code and make a beautiful responsive website.
 
 ### How to do it
-You can clone this project and create a new branch which #should be named after you#.
+You can clone this project and create a new branch which should be named after you.
 Once you are finished, you can push your branch on Github and send an email to chris@medgo.fr
 
 # Good luck !
