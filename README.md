@@ -11,7 +11,7 @@ You must implement a form so that a user can contact the webmaster.
 
 It would be awesome to 
 
-- [ ] uses Sails (http://sailsjs.com/) and ReactJs (https://reactjs.org/) stacks 
+- [ ] uses NodeJS (sailsjs http://sailsjs.com/ or expressjs are great frameworks) and ReactJs (https://reactjs.org/) stacks 
 - [ ] store on a database the info written on the form by the user
 - [ ] deploy your code on Heroku (or whatever website you prefer) so we can have a look on what you have done
 
