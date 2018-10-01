@@ -19,6 +19,6 @@ You are welcome to do whatever you want to achieve a beautiful and efficient res
 
 ### How to do it
 You can clone this project and create a new branch which should be named after you.
-Once you are finished, you can push your branch on Github and send an email to chris@medgo.fr
+Once you are finished, you can push your branch on Github on a project of your own and send an email to chris@medgo.fr with the url address
 
 # Good luck !
