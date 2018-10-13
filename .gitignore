@@ -1,7 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+/contact-webmaster-nodejs-app/node_modules
+/contact-webmaster-react-app/node_modules
 
 # testing
 /coverage
