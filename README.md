@@ -5,6 +5,5 @@ This form allows user to contact webmaster:
 - front end developed with **ReactJs**.
 - data stored in **MongoDB** database.
 - designed with **Bootstrap**.
-- this form is deployed in **Heroku**.
-  link : [contact webmaster](https://pages.github.com/).
-# Good luck !
+- this form is deployed in **Heroku**: [contact webmaster](https://pages.github.com/).
+# Try it !
