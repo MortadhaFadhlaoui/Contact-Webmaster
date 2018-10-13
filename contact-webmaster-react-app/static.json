@@ -1,0 +1,8 @@
+{
+  "root": "build/",
+  "proxies": {
+    "/api/": {
+      "origin": "https://contact-webmaster-server.herokuapp.com"
+    }
+  }
+}

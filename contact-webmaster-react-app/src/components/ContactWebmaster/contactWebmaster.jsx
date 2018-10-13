@@ -118,7 +118,7 @@ class Contact extends Component {
   // Add contact via  HTTP request using axios
   addContactService(contact) {
     axios
-      .post("http://localhost:4000/contact/add", contact) /*POST */
+      .post("/api/contact/add", contact) /*POST */
       .then(function(response) {
         if (response.status === 200) {
           /*handle success response */
